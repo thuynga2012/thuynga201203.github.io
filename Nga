@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <title>My CV</title>
+</head>
+<body>
+    <div class="row">
+        <div class="left">
+            <div class="content">
+                <div class="avtata">
+                    <img src="" style width: 100% alt="">
+                    <h2 class="name">Truong Thi Thuy Nga</h2>
+                </div>
+                <div class="slider">
+                    <div class="tag-fill">
+                        <h1>Contact</h1>
+                        <div class="tag-content">
+                                <p><i class="fa-solid fa-suitcase"></i>     Student</p>
+                                <p><i class="fa-solid fa-location-dot"></i>      Viet Nam</p>
+                                <p><i class="fa-solid fa-envelope"></i>      Email</p>
+                                <p><i class="fa-solid fa-phone"></i>      Phone</p>
+                             
+                        </div>
+                    </div>
+                    <div class="tag-fill">
+                        <h1>Skill</h1>
+                        <div class="tag-content">
+                            <p>Adobe Photoshop</p>
+                            <div class="w3-light-grey w3-round-xlarge w3-small">
+                                <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:70%">70%</div>
+                              </div>
+                            <p>Photography</p>
+                            <div class="w3-light-grey w3-round-xlarge w3-small">
+                                <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">
+                                  <div class="w3-center w3-text-white">60%</div>
+                                </div>
+                            </div>
+                            <p>Media</p>
+                            <div class="w3-light-grey w3-round-xlarge w3-small">
+                                <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:55%">55%</div>
+                              </div>
+                        </div>
+                    </div>
+                    <div class="tag-fill">
+                        <h1>Language</h1>
+                          <p>English</p>
+                          <div class="w3-light-grey w3-round-xlarge w3-small">
+                            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:65%">65%</div>
+                          </div>
+                          <p>Chinese</p>  
+                          <div class="w3-light-grey w3-round-xlarge w3-small">
+                            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:25%">25%</div>
+                          </div>
+                          <p>Korean</p>  
+                          <div class="w3-light-grey w3-round-xlarge w3-small">
+                            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:25%">25%</div>
+                          </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="right">
+            <div class="work">
+                <h2 class="nnn"><i class="fa-solid fa-suitcase"></i>   Work Experience</h2>
+                <h5 class="sale">Sale</h5>
+                <p class="mmm">Lam sale tieng anh cho trung tam tieng anh</p>
+                <h5 class="sale">Truc page</h5>
+                <p class="mmm">Truc page part time cho mot so shop ban hang online</p>
+                <h2 class="nnn"><i class="fa-solid fa-school"></i>   Education</h2>
+                <h5 class="sale">Dai hoc Mo-Dia Chat</h5>
+                <p class="mmm">Sinh vien nam ba truong Dai hoc Mo-Dia Chat</p>
+                <h2 class="nnn"><i class="fa-solid fa-star"></i>    Achievements</h2>
+                <h5 class="sale">Thanh tich hoc tap</h5>
+                <p class="mmm">GPA : .2.5</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
